@@ -21,7 +21,7 @@ RustのOwnership（所有権）システムとBorrow Checker（借用チェッ�
 
 ### 実装機能
 
-- Move semantics（移動セマンティクス）
+- Move semantics（ムーブセマンティクス）
 - Ownership validation（所有権検証）
 - Borrowing（借用）システム
 - Borrow checker（借用チェッカー）
